@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666070525312",
+    "project_id": "auto-smart-wood-working",
+    "storage_bucket": "auto-smart-wood-working.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666070525312:android:695ecdad3e113096524d65",
+        "android_client_info": {
+          "package_name": "com.auto_smart_wood_working.auto_smart_wood_working"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666070525312-ieeheo2ud467rv6eee90irq9pjtrp74b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwwV-vpKmKgOqL-QfmCjVyXzKgpp0fmfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666070525312-ieeheo2ud467rv6eee90irq9pjtrp74b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
